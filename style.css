@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f9f9f9;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.hover-box {
+    background: lightblue;
+    padding: 20px;
+    margin: 10px 0;
+    transition: background 0.3s;
+}
+
+.gallery img {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.secret-zone {
+    background: #ffdd57;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
